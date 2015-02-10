@@ -1,0 +1,1 @@
+# trytond_stock_production_location
